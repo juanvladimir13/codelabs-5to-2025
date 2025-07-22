@@ -5,7 +5,6 @@
 - Haz clic en el botón verde **"Code"** o **"Codigo"**
 - Selecciona **"Download ZIP"** o **"Descargar ZIP"**
 - Extrae el archivo ZIP con el programa **winrar** en una carpeta de tu elección
-- Click derecho en los archivos que finalicen en .html, seleccionar **Abrir con**, seleccionar `Google Chrome`
 
 ## 1. 🧰 Instalar Deno (Solo la primera vez)
 
